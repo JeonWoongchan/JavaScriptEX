@@ -3,7 +3,7 @@ Typing Text
 
 ## 유튜브 수코딩 미니 프로젝트 ##
 ---------------------
-[수코딩](https://www.youtube.com/watch?v=e56H5n1SvEs&list=PL-eeIUD86IjSyxTbGT7wY3Hie_HA5bKvg&index=1)
+[수코딩:[HTML+CSS+Javascript 강의] 타이핑 효과 랜딩 페이지 만들기 / 실습 / 웹 코딩](https://www.youtube.com/watch?v=e56H5n1SvEs&list=PL-eeIUD86IjSyxTbGT7wY3Hie_HA5bKvg&index=1)
 
 ### 기간 ###
 ---------------------
